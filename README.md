@@ -1,8 +1,5 @@
 # Health-Stat-Data-Analysis-in-PowerBi
-This repository contains the Power BI project file (`.pbix`) for analyzing health statistics data.
-
-## Project Overview
-The dashboard provides insights and visualizations based on health-related datasets, helping to track and analyze key health metrics.
+This project presents an interactive **Health Statistics Analysis Dashboard** built in Power BI, offering insights into patient demographics, key trends, and treatment & cost patterns. 
 
 ## How to Use
 - You can download and open the `.pbix` file in Power BI Desktop to explore and customize the report.
